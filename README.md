@@ -2,6 +2,10 @@
 
 Better Vehicle Menu is a BepInEx plugin for **Global Rescue** by Suchti On Tour.
 
+## Info
+
+[Suchti Mod Manager](https://github.com/SuchtiOnTour/GR_Suchti_ModManager) is recommended for changing settings in-game.
+
 ## Features
 
 - Quick vehicle buttons for Police, SWAT, Fire, and Rescue
