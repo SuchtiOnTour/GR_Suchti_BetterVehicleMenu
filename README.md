@@ -2,18 +2,22 @@
 
 Better Vehicle Menu is a BepInEx plugin for **Global Rescue** by Suchti On Tour.
 
+It adds a dedicated on-screen vehicle shortcut menu for faster access to Police, SWAT, Fire, and Rescue vehicles, while still using the original in-game vehicle menu in the background.
+
 ## Info
 
 [Suchti Mod Manager](https://github.com/SuchtiOnTour/GR_Suchti_ModManager) is recommended for changing settings in-game.
 
 ## Features
 
-- Quick vehicle buttons for Police, SWAT, Fire, and Rescue
-- Opens the original vehicle menu with the correct department tab
-- Filters directly to the selected base
-- Skips the dropdown when only one matching base exists
+- Adds a custom on-screen vehicle shortcut menu
+- Quick access buttons for Police, SWAT, Fire, and Rescue
+- Opens the original vehicle menu automatically after selecting a shortcut
+- Applies the correct department tab in the original menu
+- Applies the correct base filter in the original menu
+- Skips the base dropdown when only one matching base exists
 - Uses renamed base names from the savegame
-- Optional vehicle list sorting
+- Optional vehicle list sorting inside the original menu
 - In-game UI positioning and scale settings through the Suchti Mod Manager
 
 ## Installation
