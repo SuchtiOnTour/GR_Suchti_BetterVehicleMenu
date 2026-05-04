@@ -21,10 +21,14 @@ Better Vehicle Menu is a BepInEx plugin for **Global Rescue** by Suchti On Tour.
 1. Install BepInEx for Global Rescue.
 2. Download `GR_Suchti_BetterVehicleMenu.zip` from Releases.
 3. Extract the ZIP into the Global Rescue game folder.
-4. The DLL should be placed here:
+4. The files should look like this:
 
 ```text
 BepInEx/plugins/GR_Suchti_BetterVehicleMenu/GR_Suchti_BetterVehicleMenu.dll
+BepInEx/plugins/GR_Suchti_BetterVehicleMenu/icons/fire.png
+BepInEx/plugins/GR_Suchti_BetterVehicleMenu/icons/police.png
+BepInEx/plugins/GR_Suchti_BetterVehicleMenu/icons/rescue.png
+BepInEx/plugins/GR_Suchti_BetterVehicleMenu/icons/swat.png
 ```
 
 ## Notes
